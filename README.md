@@ -14,3 +14,10 @@ Portafolio estático bilingüe, responsive y apto para GitHub Pages.
 - Los proyectos empresariales no implican disponibilidad de código fuente.
 - No se incluye el CV original completo por contener información personal no necesaria para un sitio público.
 - No se requieren npm, backend ni base de datos.
+
+
+## V3: proyectos y contacto
+- Repositorios públicos: cargados con la API de GitHub, excluyendo `Rafael1108.github.io`.
+- Proyectos profesionales: descripciones públicas de los CV, no acceso a repositorios privados. Editar la constante `professional` en `script.js`.
+- Contacto exclusivo: LinkedIn.
+- Nunca añadir tokens de GitHub ni datos confidenciales al sitio.
